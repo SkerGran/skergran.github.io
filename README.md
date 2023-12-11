@@ -1,6 +1,6 @@
 <h2>QA/QC repos</h2>
 <p><a href="https://github.com/SkerGran/Burdin-CSharp">ASTON Automation QA C# trainee admission test</a>
-<br/>
+<br/><br/>
 <a href="https://github.com/SkerGran/Bank">Unit tests trainee</a></p>
 <hr>
 <h2>Professional development, courses</h2>
