@@ -1,8 +1,7 @@
 <h2>QA/QC repos</h2>
-<h3>ASTON Automation QA C# trainee admission test</h3>
-<p>https://github.com/SkerGran/Burdin-CSharp</p>
-<h3>Unit tests trainee</h3>
-<p>https://github.com/SkerGran/Bank</p>
+<p><a href="https://github.com/SkerGran/Burdin-CSharp">ASTON Automation QA C# trainee admission test</a>
+<br/>
+<a href="https://github.com/SkerGran/Bank">Unit tests trainee</a></p>
 <hr>
 <h2>Professional development, courses</h2>
 <p>2023 ASTON: Automation QA C#<br/>
