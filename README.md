@@ -1,7 +1,7 @@
 <h2>QA/QC repos</h2>
-<h3>ASTON Automation QA C# trainee admission test</h3><br/>
+<h3>ASTON Automation QA C# trainee admission test</h3>
 https://github.com/SkerGran/Burdin-CSharp<br/>
-<h3>Unit tests trainee</h3><br/>
+<h3>Unit tests trainee</h3>
 https://github.com/SkerGran/Bank<br/>
 <hr>
 <h2>Professional development, courses</h2>
@@ -25,11 +25,12 @@ December 2023 - until now
 <h3>Ivi Beta tester</h3>
 Manual testing of Ivi web-site and android application.<br/>
 <br/>
-April 2023 - May 2023
 <h3>ASTON Automation QA C# trainee</h3>
+<p><i>April 2023 - May 2023</i>
 Working with project in Agile-team, as Automation QA C# engineer.<br/>
-Working in Agile team. Postman, Testrail, Jira. Learning testing theory.<br/>
+Working in Agile team. Postman, Testrail, Jira. Learning testing theory.</p>
 <br/>
-August 2019 — December 2020
+
 <h3>Yandex, Manual QA</h3>
-Manual testing of mobile and desktop applications. Work in the bug tracking system.
+<p><i>August 2019 — December 2020</i>
+Manual testing of mobile and desktop applications. Work in the bug tracking system.</p>
