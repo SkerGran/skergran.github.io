@@ -24,7 +24,7 @@ ERP systems: SAP NetWeaver, АСУ ПТП (1С ERP)<br/>
 # Experience
 <br/>
 December 2023 - until now
-# Ivi Beta tester
+<h6>Ivi Beta tester</h6>
 Manual testing of Ivi web-site and android application.
 <br/>
 April 2023 - May 2023
