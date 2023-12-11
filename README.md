@@ -23,12 +23,10 @@ ERP systems: SAP NetWeaver, АСУ ПТП (1С ERP)</p>
 <h3>Ivi Beta tester</h3>
 <p><i>December 2023 - until now</i><br/>
 Manual testing of Ivi web-site and android application.</p>
-<br/>
 <h3>ASTON Automation QA C# trainee</h3>
 <p><i>April 2023 - May 2023</i><br/>
 Working with project in Agile-team, as Automation QA C# engineer.<br/>
 Working in Agile team. Postman, Testrail, Jira. Learning testing theory.</p>
-<br/>
 <h3>Yandex, Manual QA</h3>
 <p><i>August 2019 — December 2020</i><br/>
 Manual testing of mobile and desktop applications. Work in the bug tracking system.</p>
