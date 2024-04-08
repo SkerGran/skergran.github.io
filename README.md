@@ -1,4 +1,8 @@
 <h2>QA/QC repos</h2>
+<p><a href="https://docs.google.com/document/d/12BSqGmRC4gQqqbb3iRrdyJXaNJ1xr14v5xzIoaEHoIA/edit">Test task for a PC game tester</a>
+<br/><br/>
+<p><a href="https://docs.google.com/document/d/1qC0nspG7AHixQ52qRheYWY0z3bdD5E5abcqj48wR2OA/edit#heading=h.ra01stnggifp">Test task for a Mobile game tester</a>
+<br/><br/>
 <p><a href="https://github.com/SkerGran/Burdin-CSharp">ASTON Automation QA C# trainee admission test</a>
 <br/><br/>
 <a href="https://github.com/SkerGran/Bank">Unit tests trainee</a></p>
