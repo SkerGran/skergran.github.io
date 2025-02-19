@@ -27,7 +27,7 @@ ERP systems: SAP NetWeaver, АСУ ПТП (1С ERP)</p>
 <p><i>May 2024 - until now</i><br/>
 Manual testing of PC games.</p>
 <h3>Ivi - Beta tester</h3>
-<p><i>December 2023 - June 2024</i><br/>
+<p><i>December 2023 - until now</i><br/>
 Manual testing of Ivi web-site and android application.</p>
 <h3>ASTON - Automation QA C# trainee</h3>
 <p><i>April 2023 - May 2023</i><br/>
