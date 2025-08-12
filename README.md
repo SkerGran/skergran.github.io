@@ -7,7 +7,7 @@
 <br/><br/>
 <p><a href="https://github.com/SkerGran/Burdin-CSharp">ASTON Automation QA C# trainee admission test</a>
 <br/><br/>
-<a href="https://github.com/SkerGran/Bank">Unit tests trainee</a></p>
+<p><a href="https://github.com/SkerGran/Bank">Unit tests trainee</a>
 <hr>
 <h2>Professional development, courses</h2>
 <p>2023 ASTON: Automation QA C#<br/>
