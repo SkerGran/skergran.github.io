@@ -27,7 +27,7 @@ ERP systems: SAP NetWeaver, АСУ ПТП (1С ERP)</p>
 <h2>Experience - PC Project Tester</h2>
 <h3>HeroCraft</h3>
 <p><i>May 2024 - until now</i><br/>
-Manual testing of PC games.</p>
+Testing game applications, analyzing project documentation, creating and updating test documentation, creating and tracking errors in the bug tracking system, interacting with the project development team. Creating C# autotests using Unity3D and AltTester tool.</p>
 <h3>Ivi - Beta tester</h3>
 <p><i>December 2023 - until now</i><br/>
 Manual testing of Ivi web-site and android application.</p>
